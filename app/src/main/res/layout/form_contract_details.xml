@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+       xmlns:android="http://schemas.android.com/apk/res/android"
+       android:orientation="vertical"
+       android:layout_margin="25dp"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/formContractDetails">
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-condensed"
+                android:textSize="20dp"
+                android:text="Detalles del contrato"
+                android:gravity="center_horizontal"/>
+        <TextView
+                android:layout_marginTop="15dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:text="Rol del trato"
+                android:gravity="center_horizontal"/>
+        <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:checked="true"
+                android:textSize="18dp"
+                android:id="@+id/contractDetailsRoleClient"
+                android:text="Cliente"/>
+        <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:id="@+id/contractDetailsRoleProfessional"
+                android:text="Profesional"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:text="Detalles del Trato"
+                android:gravity="center_horizontal"/>
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:hint="Describa el trabajo a realizar"
+                android:id="@+id/contractDetailsDescription"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:text="Precio Pactado"
+                android:gravity="center_horizontal"/>
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:hint="ejem: S/200 por sesion por 1 mes"
+                android:id="@+id/contractDetailsPrice"/>
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

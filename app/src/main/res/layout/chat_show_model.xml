@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:cardUseCompatPadding="true"
+        app:cardCornerRadius="2dp"
+        android:elevation="2dp"
+        app:cardBackgroundColor="#D2FF9800"
+        app:contentPadding="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <com.blogspot.atifsoftwares.circularimageview.CircularImageView
+                android:layout_width="60dp"
+               android:layout_height="60dp"
+               android:src="@drawable/ic_default_profile_black"
+               android:id="@+id/messageProfile"/>
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <TextView android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_marginBottom="10dp"
+                      android:textColor="#CE000000"
+                      android:text="Juan Antonio"
+                      android:fontFamily="monospace"
+                      android:textStyle="bold"
+                      android:textSize="18dp"
+                      android:id="@+id/messageName"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

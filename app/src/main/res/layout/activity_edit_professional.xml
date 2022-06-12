@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".EditProfessionalActivity">
+    <ScrollView
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                android:orientation="vertical">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Actualizacion de Datos"
+                    android:textSize="25sp"
+                    android:layout_gravity="center"
+                    android:layout_margin="20dp"/>
+            <TableLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <TableRow>
+                    <TextView
+                            android:text="Tipo de servicio"
+                            android:layout_gravity="center_vertical"
+                            android:padding="10dp"/>
+                    <Spinner
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/udTypeServices"
+                            android:layout_gravity="center_vertical"
+                            android:padding="10dp"/>
+                </TableRow>
+                <TableRow>
+                    <TextView
+                            android:text="¿Que Ofrece?"
+                            android:padding="10dp"/>
+                    <RelativeLayout android:layout_weight="1">
+                        <EditText
+                                android:id="@+id/udAbstractService"
+                                android:layout_height="wrap_content"
+                                android:layout_width="match_parent"
+                                android:layout_gravity="center_vertical"
+                                android:padding="10dp"
+                                android:layout_weight="1"
+                                android:hint="ejm: Enseño Matematicas"/>
+                    </RelativeLayout>
+                </TableRow>
+                <TableRow>
+                    <TextView
+                            android:text="Presio Base S/."
+                            android:padding="10dp"
+                            android:layout_gravity="center_vertical"/>
+
+                    <RelativeLayout android:layout_weight="1"
+                                    android:paddingTop="15dp">
+                        <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                            <EditText
+                                    android:id="@+id/udReferencePrice"
+                                    android:layout_height="match_parent"
+                                    android:layout_width="match_parent"
+                                    android:layout_gravity="center_vertical"
+                                    android:padding="10dp"
+                                    android:hint="ejm: S/ 200 por Clase"/>
+                            <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:textSize="10dp"
+                                    android:text="Este campo puede ir vacío"/>
+                        </LinearLayout>
+                    </RelativeLayout>
+                </TableRow>
+            </TableLayout>
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Describa detalladamente su servicio"
+                    android:gravity="center_horizontal"/>
+
+            <EditText
+                    android:id="@+id/udGeneralDescriptionService"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="ejm: Enseño Matemática de nivel Primario y secundario, y doy talleres hacerca de los avances matematicos en la educacion"
+                    android:inputType="textMultiLine"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Agregue Imagenes que ayudaran como referencia"
+                    android:gravity="center_horizontal"
+                    android:layout_gravity="center_horizontal"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                    android:scaleY="0.95"
+                    android:scaleX="0.95"
+                    android:id="@+id/viewImagesRecycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:listitem="@layout/image_show_model"
+                    android:orientation="horizontal"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                <Button
+                        android:id="@+id/udAddImage"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Agregar Imagen"/>
+
+            </LinearLayout>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Agregue Documentos de referencia que lo certifiquen\n(Esto Ayudará a que pueda conseguir mas llamadas)"
+                    android:gravity="center_horizontal"
+                    android:layout_gravity="center_horizontal"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                    android:scaleY="0.95"
+                    android:scaleX="0.95"
+                    android:id="@+id/viewDocumentsRecycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="115dp"
+                    tools:listitem="@layout/view_document_show_model"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                <Button
+                        android:id="@+id/udAddDocument"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Agregar Documento"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+            android:id="@+id/confirmLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+        <Button
+                android:id="@+id/udCancelAllChanges"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Cancelar"/>
+        <Button
+                android:id="@+id/udAcceptAllChanges"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Confirmar Cambios"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

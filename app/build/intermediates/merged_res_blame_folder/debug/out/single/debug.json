@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_accept_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_accept_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_activity_chat.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable_chat_edittext_bg.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable/chat_edittext_bg.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_bg_commenter.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/bg_commenter.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/menu_menu_nav.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/menu/menu_nav.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_home_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_flecha.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_action_flecha.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_chat_message_user.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/chat_message_user.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_home_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable_bg_receiver.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable/bg_receiver.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_reply_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_reply_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_form_document_upload.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/form_document_upload.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_edit_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_edit_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_reply_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_reply_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_message_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_message_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_delete_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_delete_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable_bg_services.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable/bg_services.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_default_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_default_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable_bg_sender.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable/bg_sender.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_delete_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_delete_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_location_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_location_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_professional_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_professional_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_reply_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_reply_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_contract_hands_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_contract_hands_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_channel.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-xhdpi/ic_channel.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_reply_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_reply_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_action_flecha.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-anydpi/ic_action_flecha.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_professional_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_professional_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_activity_maps.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_accept_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_accept_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_accept_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_accept_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_accept_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_accept_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_delete_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_delete_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_image_show_model.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/image_show_model.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_location_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_location_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_accept_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_accept_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_form_comment.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/form_comment.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_contract_hands_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_contract_hands_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_chat_message_contact.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/chat_message_contact.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_fragment_chat_list.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/fragment_chat_list.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_flecha.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_action_flecha.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_message_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_message_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_chat_show_model.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/chat_show_model.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_form_contract_details.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/form_contract_details.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable_logo_appservice.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable/logo_appservice.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_home_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_edit_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_edit_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_professional_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_professional_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_activity_dashboard.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_channel.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-anydpi-v26/ic_channel.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_activity_profile_professional.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/activity_profile_professional.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_edit_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_edit_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_location_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_location_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_view_document_show_model.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/view_document_show_model.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_delete_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_delete_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_activity_edit_professional.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/activity_edit_professional.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_default_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_default_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_location_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_location_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-xhdpi_logo_appservice.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-xhdpi/logo_appservice.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_contract_hands_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_contract_hands_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_message_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_message_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_activity_pdf_viwer.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/activity_pdf_viwer.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_services_shows_model.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/services_shows_model.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable_bg_cover.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable/bg_cover.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_flecha.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_action_flecha.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_location_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_location_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_message_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_message_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_professional_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_professional_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_default_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_default_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_fragment_profile.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_edit_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_edit_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_fragment_professional_list.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/fragment_professional_list.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_edit_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_edit_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_comments_show_model.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/comments_show_model.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_users_show_model.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/users_show_model.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_default_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_default_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_professional_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_professional_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_home_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/layout_fragment_profile_professional.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/layout/fragment_profile_professional.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_default_profile_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_default_profile_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_reply_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxhdpi/ic_reply_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_contract_hands_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_contract_hands_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_flecha.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-hdpi/ic_action_flecha.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_send_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xxxhdpi/ic_send_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_message_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-mdpi/ic_message_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_delete_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_delete_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_contract_hands_black.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/drawable-xhdpi/ic_contract_hands_black.png"
+    },
+    {
+        "merged": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/davidvelz/IntelliJIDEAProjects/ServiciosG3/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

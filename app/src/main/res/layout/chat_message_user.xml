@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:orientation="horizontal">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/timeSendingChat"
+                android:text="20/20"
+                android:layout_margin="10dp"
+                android:textSize="12sp"
+                android:textColor="@color/black"/>
+        <LinearLayout
+                android:id="@+id/typeLocationMessage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_weight="1"
+                android:background="@drawable/bg_sender"
+                android:padding="15dp">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Envio una Ubicacion"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <Button
+                    android:id="@+id/viewOnMapButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ver en Mapa"
+                    android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout
+                android:id="@+id/typeStatusContractMessage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_weight="1"
+                android:background="@drawable/bg_sender"
+                android:orientation="vertical"
+                android:padding="15dp">
+            <TextView
+                    android:layout_margin="7dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Envio Verificacion de contrato"
+                    android:layout_weight="1"
+                    android:layout_gravity="center_horizontal"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="DETALLES"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Profesional: "
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/contractMessageProfessionalName"
+                    android:textStyle="bold"
+                    android:text="--"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cliente: "
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/contractMessageClientName"
+                    android:textStyle="bold"
+                    android:text="--"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Descripcion: "
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/contractMessageDescription"
+                    android:textStyle="bold"
+                    android:text="--"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Precio Acordado: "
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/contractMessagePrice"
+                    android:textStyle="bold"
+                    android:text="--"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Estado de Verificacion"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+            <TextView
+                    android:id="@+id/stateContract"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Esperando...."
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"/>
+
+        </LinearLayout>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/typeTextMessage"
+                android:visibility="gone"
+                android:layout_weight="1"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:background="@drawable/bg_sender"
+                android:padding="15dp"
+                android:text="Message"/>
+
+    </LinearLayout>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/statusMessageChat"
+            android:gravity="end"
+            android:textAlignment="textEnd"
+            android:text="Entregado"
+            android:visibility="gone"/>
+
+
+
+
+
+
+</LinearLayout>

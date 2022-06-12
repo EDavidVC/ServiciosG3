@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                tools:context=".professionalProfileService">
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+            <ImageView android:layout_width="match_parent"
+                       android:layout_height="180dp"
+                       android:id="@+id/profileProfessionalCoverImageSERVICE"
+                       android:background="@drawable/bg_cover">
+            </ImageView>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                      android:id="@+id/profileProfessionalValorationSERVICE"
+                      android:layout_alignParentStart="true"
+                      android:layout_margin="40dp"
+                      android:textStyle="bold"
+                      android:textColor="@color/white"
+                      android:textSize="30dp"/>
+
+            <LinearLayout android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:layout_marginTop="120dp"
+                          android:orientation="vertical">
+
+                <com.blogspot.atifsoftwares.circularimageview.CircularImageView
+                       android:layout_width="130dp"
+                       android:layout_gravity="center"
+                       android:layout_height="130dp"
+                       android:id="@+id/profileProfessionalImageSERVICE"
+                       android:src="@drawable/ic_default_profile_black"/>
+
+                <LinearLayout android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:orientation="vertical">
+
+                    <TextView android:layout_width="300dp"
+                              android:layout_height="match_parent"
+                              android:id="@+id/profileProfessionalNameSERVICE"
+                              android:paddingTop="15dp"
+                              android:textColor="#350D00"
+                              android:textStyle="bold"
+                              android:textSize="25dp"
+                              android:gravity="center"
+                              android:layout_gravity="center_horizontal"/>
+
+
+                    <TextView android:layout_width="350dp"
+                              android:layout_height="wrap_content"
+                              android:layout_margin="20dp"
+                              android:id="@+id/profileProfessionalDescriptionSERVICE"
+                              android:textColor="#A32C1919"
+                              android:textSize="16dp"
+                              android:layout_gravity="center_horizontal"
+                              android:gravity="center_horizontal"/>
+
+                    <androidx.recyclerview.widget.RecyclerView
+                            android:scaleY="0.95"
+                            android:scaleX="0.95"
+                            android:id="@+id/viewImagesRecyclerProfileServicer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            tools:listitem="@layout/image_show_model"
+                            android:orientation="horizontal"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="match_parent"
+                              android:layout_marginTop="10dp"
+                              android:layout_marginBottom="10dp"
+                              android:textColor="#DF131010"
+                              android:gravity="center_horizontal"
+                              android:textSize="24dp"
+                              android:fontFamily="sans-serif-black"
+                              android:text="Descripcion Profesional"
+                              android:layout_marginLeft="5dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Tipo de servicio"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalServiceTypeSERVICE"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Resumen del Servicio"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalServiceAbstractSERVICE"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Descripcion General Del servico"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalGeneralDescriptionSERVICE"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Referencias/Imagenes"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:text="No Atributte"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="match_parent"
+                              android:textColor="#DF131010"
+                              android:gravity="center_horizontal"
+                              android:textSize="24dp"
+                              android:fontFamily="sans-serif-black"
+                              android:text="Datos de Contacto"
+                              android:layout_marginLeft="5dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Numero Celular"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalPhoneSERVICE"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Direccion"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalAddresSERVICE"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Correo Electronico"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalMailSERVICE"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="match_parent"
+                              android:textColor="#DF131010"
+                              android:gravity="center_horizontal"
+                              android:textSize="24dp"
+                              android:fontFamily="sans-serif-black"
+                              android:text="COMENTARIOS"
+                              android:layout_marginLeft="5dp"/>
+                    <Button
+                            android:id="@+id/createANewComment"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:text="¿Desea realizar un comentario?"/>
+
+                    <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/commentsRecyclerView"
+                            android:layout_weight="1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/msj_fab"
+            android:src="@drawable/ic_message_black"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="19dp"/>
+</RelativeLayout>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+                tools:context=".professionalProfileFragment">
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/editProfessionalProfile"
+                    android:src="@drawable/ic_edit_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_margin="19dp"/>
+            <ImageView android:layout_width="match_parent"
+                       android:layout_height="180dp"
+                       android:id="@+id/profileProfessionalCoverImage"
+                       android:background="#EAEDED">
+            </ImageView>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                      android:id="@+id/profileProfessionalValoration"
+                      android:layout_alignParentStart="true"
+                      android:layout_margin="40dp"
+                      android:textStyle="bold"
+                      android:textColor="@color/white"
+                      android:textSize="30dp"/>
+
+            <LinearLayout android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:layout_marginTop="100dp"
+                          android:orientation="vertical">
+
+                <com.blogspot.atifsoftwares.circularimageview.CircularImageView
+                        android:layout_width="130dp"
+                        android:layout_gravity="center"
+                        android:layout_height="130dp"
+                        android:id="@+id/profileProfessionalImage"
+                        android:src="@drawable/ic_default_profile_black"/>
+
+                <LinearLayout android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:orientation="vertical">
+
+                    <TextView android:layout_width="300dp"
+                              android:layout_height="match_parent"
+                              android:id="@+id/profileProfessionalName"
+                              android:paddingTop="16dp"
+                              android:textColor="#350D00"
+                              android:textStyle="bold"
+                              android:textSize="25dp"
+                              android:gravity="center"
+                              android:layout_gravity="center_horizontal"/>
+
+                    <TextView android:layout_width="350dp"
+                              android:layout_height="wrap_content"
+                              android:layout_margin="15dp"
+                              android:id="@+id/profileProfessionalDescription"
+                              android:textColor="#A32C1919"
+                              android:textSize="16dp"
+                              android:layout_gravity="center_horizontal"
+                              android:gravity="center_horizontal"/>
+                    <androidx.recyclerview.widget.RecyclerView
+                            android:scaleY="0.95"
+                            android:scaleX="0.95"
+                            android:id="@+id/viewImagesRecyclerProfile"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            tools:listitem="@layout/image_show_model"
+                            android:orientation="horizontal"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="match_parent"
+                              android:layout_marginTop="10dp"
+                              android:layout_marginBottom="10dp"
+                              android:textColor="#DF131010"
+                              android:gravity="center_horizontal"
+                              android:textSize="24dp"
+                              android:text="Descripcion Profesional"
+                              android:fontFamily="sans-serif-black"/>
+
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Objetivo"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalServiceAbstract"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Resumen"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalGeneralDescription"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Referencias/Documentos"/>
+
+                    <androidx.recyclerview.widget.RecyclerView
+                            android:scaleY="0.95"
+                            android:scaleX="0.95"
+                            android:id="@+id/viewDocumentsRecyclerProfile"
+                            android:layout_width="match_parent"
+                            android:layout_height="130dp"
+                            tools:listitem="@layout/view_document_show_model"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="match_parent"
+                              android:layout_marginTop="10dp"
+                              android:layout_marginBottom="10dp"
+                              android:textColor="#DF131010"
+                              android:gravity="center_horizontal"
+                              android:textSize="24dp"
+                              android:text="Contacto"
+                              android:layout_marginLeft="5dp"
+                              android:fontFamily="sans-serif-black"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Celular"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalPhone"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Dirección"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalAddres"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:textColor="#DF131010"
+                              android:fontFamily="sans-serif-black"
+                              android:layout_marginStart="15dp"
+                              android:textSize="20dp"
+                              android:text="Correo"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:id="@+id/profileProfessionalMail"
+                              android:textColor="#DF252525"
+                              android:fontFamily="sans-serif-condensed"
+                              android:layout_marginStart="23dp"
+                              android:textSize="20dp"/>
+
+                    <TextView android:layout_width="match_parent"
+                              android:layout_height="match_parent"
+                              android:layout_marginTop="10dp"
+                              android:layout_marginBottom="10dp"
+                              android:textColor="#DF131010"
+                              android:gravity="center_horizontal"
+                              android:textSize="24dp"
+                              android:text="Comentarios"
+                              android:layout_marginLeft="5dp"
+                              android:fontFamily="sans-serif-black"/>
+
+                    <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/commentsProfileRecyclerView"
+                            android:layout_weight="1"
+                            android:layout_width="match_parent"
+                            tools:listitem="@layout/comments_show_model"
+                            android:layout_height="wrap_content"/>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
